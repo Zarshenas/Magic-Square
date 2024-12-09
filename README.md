@@ -25,3 +25,4 @@ Start the **index.js** file
   nodemon index.js
 ```
 
+Then pass an odd number to the magicSquare function and watch the console for the results.
